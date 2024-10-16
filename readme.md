@@ -1,4 +1,5 @@
-# News Article Person of Firm Extraction & Analysis
+# Extraction and Analysis of Individuals and Firms in News Articles
+
 
 This project focuses on extracting and analyzing the names of individuals mentioned in news articles using advanced Natural Language Processing (NLP) techniques. By processing vast collections of articles, the goal is to generate insights on key persons frequently mentioned over time, their contexts, and how their appearances evolve across different articles and time periods.
 
