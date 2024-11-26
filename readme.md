@@ -28,9 +28,4 @@ Using `spaCy` for entity recognition and Python for data manipulation and visual
 - Basic knowledge of Python, NLP, and data analysis
 - Necessary libraries: `spaCy`, `pandas`, `matplotlib`, `tqdm`
 
-### Setup Steps
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/news-person-extraction.git
-   cd news-person-extraction
